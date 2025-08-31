@@ -33,6 +33,67 @@
         "c:\\Users\\DELL\\AppData\\Roaming\\Code\\User\\settings.json"
       ],
       "averageChangeSize": 20
+    },
+    "2D GAME": {
+      "totalLinesAdded": 58,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 2,
+      "files": {
+        "c:\\Users\\DELL\\AppData\\Roaming\\Code\\User\\settings.json": [
+          {
+            "timestamp": "2025-08-31T08:16:11.633Z",
+            "fileName": "c:\\Users\\DELL\\AppData\\Roaming\\Code\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 21,
+            "linesRemoved": 0,
+            "projectName": "2D GAME",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-08-31T08:17:08.191Z",
+            "fileName": "c:\\Users\\DELL\\AppData\\Roaming\\Code\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "2D GAME",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-08-31T08:17:25.968Z",
+            "fileName": "c:\\Users\\DELL\\AppData\\Roaming\\Code\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 34,
+            "linesRemoved": 0,
+            "projectName": "2D GAME",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 2
+      },
+      "changeFrequency": {
+        "13": 2
+      },
+      "topFiles": [
+        "c:\\Users\\DELL\\AppData\\Roaming\\Code\\User\\settings.json"
+      ],
+      "averageChangeSize": 19.333333333333332
     }
   },
   "totalActiveTime": 0,
