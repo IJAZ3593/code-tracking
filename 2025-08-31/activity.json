@@ -182,6 +182,165 @@
         "c:\\Users\\DELL\\AppData\\Roaming\\Code\\User\\settings.json"
       ],
       "averageChangeSize": 19.333333333333332
+    },
+    "abc2": {
+      "totalLinesAdded": 657,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 9,
+      "files": {
+        "c:\\Users\\DELL\\OneDrive\\Desktop\\abc2\\index.html": [
+          {
+            "timestamp": "2025-08-31T17:55:03.881Z",
+            "fileName": "c:\\Users\\DELL\\OneDrive\\Desktop\\abc2\\index.html",
+            "fileType": ".html",
+            "linesAdded": 250,
+            "linesRemoved": 0,
+            "projectName": "abc2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "html"
+          }
+        ],
+        "c:\\Users\\DELL\\OneDrive\\Desktop\\abc2\\style.css": [
+          {
+            "timestamp": "2025-08-31T17:55:27.559Z",
+            "fileName": "c:\\Users\\DELL\\OneDrive\\Desktop\\abc2\\style.css",
+            "fileType": ".css",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "abc2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-08-31T17:55:28.597Z",
+            "fileName": "c:\\Users\\DELL\\OneDrive\\Desktop\\abc2\\style.css",
+            "fileType": ".css",
+            "linesAdded": 101,
+            "linesRemoved": 0,
+            "projectName": "abc2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          }
+        ],
+        "c:\\Users\\DELL\\OneDrive\\Desktop\\abc2\\app.js": [
+          {
+            "timestamp": "2025-08-31T17:56:00.142Z",
+            "fileName": "c:\\Users\\DELL\\OneDrive\\Desktop\\abc2\\app.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "abc2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-31T17:56:01.167Z",
+            "fileName": "c:\\Users\\DELL\\OneDrive\\Desktop\\abc2\\app.js",
+            "fileType": ".js",
+            "linesAdded": 112,
+            "linesRemoved": 0,
+            "projectName": "abc2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "c:\\Users\\DELL\\OneDrive\\Desktop\\abc2\\profile.html": [
+          {
+            "timestamp": "2025-08-31T17:57:00.497Z",
+            "fileName": "c:\\Users\\DELL\\OneDrive\\Desktop\\abc2\\profile.html",
+            "fileType": ".html",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "abc2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-08-31T17:57:01.348Z",
+            "fileName": "c:\\Users\\DELL\\OneDrive\\Desktop\\abc2\\profile.html",
+            "fileType": ".html",
+            "linesAdded": 94,
+            "linesRemoved": 0,
+            "projectName": "abc2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          }
+        ],
+        "c:\\Users\\DELL\\OneDrive\\Desktop\\abc2\\notifications.html": [
+          {
+            "timestamp": "2025-08-31T17:58:38.318Z",
+            "fileName": "c:\\Users\\DELL\\OneDrive\\Desktop\\abc2\\notifications.html",
+            "fileType": ".html",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "abc2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-08-31T17:58:39.328Z",
+            "fileName": "c:\\Users\\DELL\\OneDrive\\Desktop\\abc2\\notifications.html",
+            "fileType": ".html",
+            "linesAdded": 96,
+            "linesRemoved": 0,
+            "projectName": "abc2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          }
+        ]
+      },
+      "languageStats": {
+        "html": 5,
+        "css": 2,
+        "js": 2
+      },
+      "changeFrequency": {
+        "22": 9
+      },
+      "topFiles": [
+        "c:\\Users\\DELL\\OneDrive\\Desktop\\abc2\\style.css",
+        "c:\\Users\\DELL\\OneDrive\\Desktop\\abc2\\app.js",
+        "c:\\Users\\DELL\\OneDrive\\Desktop\\abc2\\profile.html",
+        "c:\\Users\\DELL\\OneDrive\\Desktop\\abc2\\notifications.html",
+        "c:\\Users\\DELL\\OneDrive\\Desktop\\abc2\\index.html"
+      ],
+      "averageChangeSize": 73
     }
   },
   "totalActiveTime": 0,
