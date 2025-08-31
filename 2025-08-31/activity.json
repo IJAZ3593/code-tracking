@@ -184,9 +184,9 @@
       "averageChangeSize": 19.333333333333332
     },
     "abc2": {
-      "totalLinesAdded": 657,
+      "totalLinesAdded": 902,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 9,
+      "totalActiveTime": 15,
       "files": {
         "c:\\Users\\DELL\\OneDrive\\Desktop\\abc2\\index.html": [
           {
@@ -314,6 +314,66 @@
             "fileName": "c:\\Users\\DELL\\OneDrive\\Desktop\\abc2\\notifications.html",
             "fileType": ".html",
             "linesAdded": 96,
+            "linesRemoved": 0,
+            "projectName": "abc2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          }
+        ],
+        "c:\\Users\\DELL\\OneDrive\\Desktop\\abc2\\messages.html": [
+          {
+            "timestamp": "2025-08-31T18:00:12.963Z",
+            "fileName": "c:\\Users\\DELL\\OneDrive\\Desktop\\abc2\\messages.html",
+            "fileType": ".html",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "abc2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-08-31T18:00:13.981Z",
+            "fileName": "c:\\Users\\DELL\\OneDrive\\Desktop\\abc2\\messages.html",
+            "fileType": ".html",
+            "linesAdded": 104,
+            "linesRemoved": 0,
+            "projectName": "abc2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          }
+        ],
+        "c:\\Users\\DELL\\OneDrive\\Desktop\\abc2\\settings.html": [
+          {
+            "timestamp": "2025-08-31T18:01:22.894Z",
+            "fileName": "c:\\Users\\DELL\\OneDrive\\Desktop\\abc2\\settings.html",
+            "fileType": ".html",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "abc2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-08-31T18:01:23.920Z",
+            "fileName": "c:\\Users\\DELL\\OneDrive\\Desktop\\abc2\\settings.html",
+            "fileType": ".html",
+            "linesAdded": 139,
             "linesRemoved": 0,
             "projectName": "abc2",
             "content": {
