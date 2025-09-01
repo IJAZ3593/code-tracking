@@ -1,0 +1,61 @@
+{
+  "date": "2025-09-01",
+  "projects": {
+    "project": {
+      "totalLinesAdded": 36,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "c:\\Users\\DELL\\OneDrive\\Desktop\\project\\index.html": [
+          {
+            "timestamp": "2025-09-01T00:58:03.806Z",
+            "fileName": "c:\\Users\\DELL\\OneDrive\\Desktop\\project\\index.html",
+            "fileType": ".html",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "project",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-09-01T00:58:04.825Z",
+            "fileName": "c:\\Users\\DELL\\OneDrive\\Desktop\\project\\index.html",
+            "fileType": ".html",
+            "linesAdded": 35,
+            "linesRemoved": 0,
+            "projectName": "project",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          }
+        ]
+      },
+      "languageStats": {
+        "html": 1
+      },
+      "changeFrequency": {
+        "5": 1
+      },
+      "topFiles": [
+        "c:\\Users\\DELL\\OneDrive\\Desktop\\project\\index.html"
+      ],
+      "averageChangeSize": 18
+    }
+  },
+  "totalActiveTime": 1,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    5
+  ],
+  "mostUsedLanguages": [
+    "html"
+  ]
+}
