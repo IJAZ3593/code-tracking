@@ -702,9 +702,9 @@
       "averageChangeSize": 16.53846153846154
     },
     "project 3": {
-      "totalLinesAdded": 1314,
+      "totalLinesAdded": 1372,
       "totalLinesRemoved": 11,
-      "totalActiveTime": 58,
+      "totalActiveTime": 59,
       "files": {
         "c:\\Users\\DELL\\OneDrive\\Desktop\\project 3\\index.html": [
           {
@@ -1066,6 +1066,34 @@
             "fileName": "c:\\Users\\DELL\\OneDrive\\Desktop\\project 3\\app.js",
             "fileType": ".js",
             "linesAdded": 13,
+            "linesRemoved": 0,
+            "projectName": "project 3",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-09-01T10:45:07.724Z",
+            "fileName": "c:\\Users\\DELL\\OneDrive\\Desktop\\project 3\\app.js",
+            "fileType": ".js",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "project 3",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-09-01T10:45:13.216Z",
+            "fileName": "c:\\Users\\DELL\\OneDrive\\Desktop\\project 3\\app.js",
+            "fileType": ".js",
+            "linesAdded": 53,
             "linesRemoved": 0,
             "projectName": "project 3",
             "content": {
