@@ -1997,6 +1997,81 @@
         "c:\\Users\\DELL\\OneDrive\\Desktop\\project 3\\messages.html"
       ],
       "averageChangeSize": 32
+    },
+    "2D GAME": {
+      "totalLinesAdded": 31,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 4,
+      "files": {
+        "c:\\Users\\DELL\\OneDrive\\Desktop\\2D GAME\\.vscode\\launch.json": [
+          {
+            "timestamp": "2025-09-01T11:56:51.614Z",
+            "fileName": "c:\\Users\\DELL\\OneDrive\\Desktop\\2D GAME\\.vscode\\launch.json",
+            "fileType": ".json",
+            "linesAdded": 15,
+            "linesRemoved": 0,
+            "projectName": "2D GAME",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-09-01T11:56:52.691Z",
+            "fileName": "c:\\Users\\DELL\\OneDrive\\Desktop\\2D GAME\\.vscode\\launch.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "2D GAME",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-09-01T11:58:37.192Z",
+            "fileName": "c:\\Users\\DELL\\OneDrive\\Desktop\\2D GAME\\.vscode\\launch.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "2D GAME",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-09-01T11:58:57.948Z",
+            "fileName": "c:\\Users\\DELL\\OneDrive\\Desktop\\2D GAME\\.vscode\\launch.json",
+            "fileType": ".json",
+            "linesAdded": 14,
+            "linesRemoved": 0,
+            "projectName": "2D GAME",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 4
+      },
+      "changeFrequency": {
+        "16": 4
+      },
+      "topFiles": [
+        "c:\\Users\\DELL\\OneDrive\\Desktop\\2D GAME\\.vscode\\launch.json"
+      ],
+      "averageChangeSize": 7.75
     }
   },
   "totalActiveTime": 1,
