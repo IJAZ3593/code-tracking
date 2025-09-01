@@ -702,9 +702,9 @@
       "averageChangeSize": 16.53846153846154
     },
     "project 3": {
-      "totalLinesAdded": 1480,
+      "totalLinesAdded": 1734,
       "totalLinesRemoved": 11,
-      "totalActiveTime": 66,
+      "totalActiveTime": 78,
       "files": {
         "c:\\Users\\DELL\\OneDrive\\Desktop\\project 3\\index.html": [
           {
@@ -726,6 +726,34 @@
             "fileName": "c:\\Users\\DELL\\OneDrive\\Desktop\\project 3\\index.html",
             "fileType": ".html",
             "linesAdded": 39,
+            "linesRemoved": 0,
+            "projectName": "project 3",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-09-01T10:50:34.203Z",
+            "fileName": "c:\\Users\\DELL\\OneDrive\\Desktop\\project 3\\index.html",
+            "fileType": ".html",
+            "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "project 3",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-09-01T10:50:38.741Z",
+            "fileName": "c:\\Users\\DELL\\OneDrive\\Desktop\\project 3\\index.html",
+            "fileType": ".html",
+            "linesAdded": 42,
             "linesRemoved": 0,
             "projectName": "project 3",
             "content": {
@@ -1002,6 +1030,34 @@
             },
             "duration": 1,
             "language": "css"
+          },
+          {
+            "timestamp": "2025-09-01T10:51:41.187Z",
+            "fileName": "c:\\Users\\DELL\\OneDrive\\Desktop\\project 3\\style.css",
+            "fileType": ".css",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "project 3",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-09-01T10:51:44.200Z",
+            "fileName": "c:\\Users\\DELL\\OneDrive\\Desktop\\project 3\\style.css",
+            "fileType": ".css",
+            "linesAdded": 70,
+            "linesRemoved": 0,
+            "projectName": "project 3",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
           }
         ],
         "c:\\Users\\DELL\\OneDrive\\Desktop\\project 3\\app.js": [
@@ -1122,6 +1178,34 @@
             "fileName": "c:\\Users\\DELL\\OneDrive\\Desktop\\project 3\\app.js",
             "fileType": ".js",
             "linesAdded": 53,
+            "linesRemoved": 0,
+            "projectName": "project 3",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-09-01T10:53:02.419Z",
+            "fileName": "c:\\Users\\DELL\\OneDrive\\Desktop\\project 3\\app.js",
+            "fileType": ".js",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "project 3",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-09-01T10:53:07.572Z",
+            "fileName": "c:\\Users\\DELL\\OneDrive\\Desktop\\project 3\\app.js",
+            "fileType": ".js",
+            "linesAdded": 77,
             "linesRemoved": 0,
             "projectName": "project 3",
             "content": {
@@ -1352,6 +1436,34 @@
             "fileName": "c:\\Users\\DELL\\OneDrive\\Desktop\\project 3\\notifications.html",
             "fileType": ".html",
             "linesAdded": 54,
+            "linesRemoved": 0,
+            "projectName": "project 3",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-09-01T10:54:54.953Z",
+            "fileName": "c:\\Users\\DELL\\OneDrive\\Desktop\\project 3\\notifications.html",
+            "fileType": ".html",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "project 3",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-09-01T10:55:03.157Z",
+            "fileName": "c:\\Users\\DELL\\OneDrive\\Desktop\\project 3\\notifications.html",
+            "fileType": ".html",
+            "linesAdded": 33,
             "linesRemoved": 0,
             "projectName": "project 3",
             "content": {
