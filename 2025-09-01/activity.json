@@ -702,9 +702,9 @@
       "averageChangeSize": 16.53846153846154
     },
     "project 3": {
-      "totalLinesAdded": 780,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 21,
+      "totalLinesAdded": 862,
+      "totalLinesRemoved": 10,
+      "totalActiveTime": 28,
       "files": {
         "c:\\Users\\DELL\\OneDrive\\Desktop\\project 3\\index.html": [
           {
@@ -777,6 +777,62 @@
               "removed": []
             },
             "duration": 3,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-09-01T10:20:42.679Z",
+            "fileName": "c:\\Users\\DELL\\OneDrive\\Desktop\\project 3\\style.css",
+            "fileType": ".css",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "project 3",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-09-01T10:20:44.868Z",
+            "fileName": "c:\\Users\\DELL\\OneDrive\\Desktop\\project 3\\style.css",
+            "fileType": ".css",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "project 3",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-09-01T10:21:03.419Z",
+            "fileName": "c:\\Users\\DELL\\OneDrive\\Desktop\\project 3\\style.css",
+            "fileType": ".css",
+            "linesAdded": 13,
+            "linesRemoved": 0,
+            "projectName": "project 3",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-09-01T10:21:12.078Z",
+            "fileName": "c:\\Users\\DELL\\OneDrive\\Desktop\\project 3\\style.css",
+            "fileType": ".css",
+            "linesAdded": 0,
+            "linesRemoved": 10,
+            "projectName": "project 3",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "css"
           }
         ],
@@ -865,6 +921,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-09-01T10:23:32.081Z",
+            "fileName": "c:\\Users\\DELL\\OneDrive\\Desktop\\project 3\\profile.html",
+            "fileType": ".html",
+            "linesAdded": 59,
+            "linesRemoved": 0,
+            "projectName": "project 3",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "html"
           }
         ],
