@@ -2,9 +2,9 @@
   "date": "2025-09-01",
   "projects": {
     "project": {
-      "totalLinesAdded": 36,
+      "totalLinesAdded": 412,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 1,
+      "totalActiveTime": 13,
       "files": {
         "c:\\Users\\DELL\\OneDrive\\Desktop\\project\\index.html": [
           {
@@ -34,6 +34,186 @@
             },
             "duration": 1,
             "language": "html"
+          }
+        ],
+        "c:\\Users\\DELL\\OneDrive\\Desktop\\project\\profile.html": [
+          {
+            "timestamp": "2025-09-01T00:58:27.193Z",
+            "fileName": "c:\\Users\\DELL\\OneDrive\\Desktop\\project\\profile.html",
+            "fileType": ".html",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "project",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-09-01T00:58:28.190Z",
+            "fileName": "c:\\Users\\DELL\\OneDrive\\Desktop\\project\\profile.html",
+            "fileType": ".html",
+            "linesAdded": 33,
+            "linesRemoved": 0,
+            "projectName": "project",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          }
+        ],
+        "c:\\Users\\DELL\\OneDrive\\Desktop\\project\\messages.html": [
+          {
+            "timestamp": "2025-09-01T00:58:45.586Z",
+            "fileName": "c:\\Users\\DELL\\OneDrive\\Desktop\\project\\messages.html",
+            "fileType": ".html",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "project",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-09-01T00:58:46.614Z",
+            "fileName": "c:\\Users\\DELL\\OneDrive\\Desktop\\project\\messages.html",
+            "fileType": ".html",
+            "linesAdded": 32,
+            "linesRemoved": 0,
+            "projectName": "project",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          }
+        ],
+        "c:\\Users\\DELL\\OneDrive\\Desktop\\project\\notifications.html": [
+          {
+            "timestamp": "2025-09-01T00:59:03.212Z",
+            "fileName": "c:\\Users\\DELL\\OneDrive\\Desktop\\project\\notifications.html",
+            "fileType": ".html",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "project",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-09-01T00:59:04.235Z",
+            "fileName": "c:\\Users\\DELL\\OneDrive\\Desktop\\project\\notifications.html",
+            "fileType": ".html",
+            "linesAdded": 28,
+            "linesRemoved": 0,
+            "projectName": "project",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          }
+        ],
+        "c:\\Users\\DELL\\OneDrive\\Desktop\\project\\settings.html": [
+          {
+            "timestamp": "2025-09-01T00:59:21.289Z",
+            "fileName": "c:\\Users\\DELL\\OneDrive\\Desktop\\project\\settings.html",
+            "fileType": ".html",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "project",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-09-01T00:59:22.409Z",
+            "fileName": "c:\\Users\\DELL\\OneDrive\\Desktop\\project\\settings.html",
+            "fileType": ".html",
+            "linesAdded": 34,
+            "linesRemoved": 0,
+            "projectName": "project",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          }
+        ],
+        "c:\\Users\\DELL\\OneDrive\\Desktop\\project\\style.css": [
+          {
+            "timestamp": "2025-09-01T00:59:36.994Z",
+            "fileName": "c:\\Users\\DELL\\OneDrive\\Desktop\\project\\style.css",
+            "fileType": ".css",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "project",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-09-01T00:59:38.020Z",
+            "fileName": "c:\\Users\\DELL\\OneDrive\\Desktop\\project\\style.css",
+            "fileType": ".css",
+            "linesAdded": 55,
+            "linesRemoved": 0,
+            "projectName": "project",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          }
+        ],
+        "c:\\Users\\DELL\\OneDrive\\Desktop\\project\\app.js": [
+          {
+            "timestamp": "2025-09-01T00:59:53.766Z",
+            "fileName": "c:\\Users\\DELL\\OneDrive\\Desktop\\project\\app.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "project",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-09-01T00:59:54.807Z",
+            "fileName": "c:\\Users\\DELL\\OneDrive\\Desktop\\project\\app.js",
+            "fileType": ".js",
+            "linesAdded": 188,
+            "linesRemoved": 0,
+            "projectName": "project",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
           }
         ]
       },
