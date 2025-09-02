@@ -165,9 +165,9 @@
       "averageChangeSize": 2
     },
     "multipages pages": {
-      "totalLinesAdded": 51,
+      "totalLinesAdded": 55,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 3,
+      "totalActiveTime": 7,
       "files": {
         "c:\\Users\\DELL\\AppData\\Roaming\\Code\\User\\settings.json": [
           {
@@ -215,6 +215,70 @@
             },
             "duration": 2,
             "language": "json"
+          }
+        ],
+        "c:\\Users\\DELL\\OneDrive\\Desktop\\multipages pages\\project\\tailwind.config.js": [
+          {
+            "timestamp": "2025-09-02T13:43:51.475Z",
+            "fileName": "c:\\Users\\DELL\\OneDrive\\Desktop\\multipages pages\\project\\tailwind.config.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "multipages pages",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          }
+        ],
+        "c:\\Users\\DELL\\OneDrive\\Desktop\\multipages pages\\project\\postcss.confog.js": [
+          {
+            "timestamp": "2025-09-02T13:44:27.543Z",
+            "fileName": "c:\\Users\\DELL\\OneDrive\\Desktop\\multipages pages\\project\\postcss.confog.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "multipages pages",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "c:\\Users\\DELL\\OneDrive\\Desktop\\multipages pages\\src\\main.jsx": [
+          {
+            "timestamp": "2025-09-02T13:45:50.862Z",
+            "fileName": "c:\\Users\\DELL\\OneDrive\\Desktop\\multipages pages\\src\\main.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "multipages pages",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "jsx"
+          }
+        ],
+        "c:\\Users\\DELL\\OneDrive\\Desktop\\multipages pages\\src\\app.jsx": [
+          {
+            "timestamp": "2025-09-02T13:46:19.643Z",
+            "fileName": "c:\\Users\\DELL\\OneDrive\\Desktop\\multipages pages\\src\\app.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "multipages pages",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
           }
         ]
       },
