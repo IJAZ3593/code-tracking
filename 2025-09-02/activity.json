@@ -98,9 +98,9 @@
       "averageChangeSize": 3
     },
     "multipages website": {
-      "totalLinesAdded": 4,
+      "totalLinesAdded": 52,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 3,
+      "totalActiveTime": 4,
       "files": {
         "c:\\Users\\DELL\\AppData\\Local\\Temp\\6adc5f9c-82af-4fee-a60f-daceed8789c8_MultiPageSocial.zip.MultiPageSocial.zip\\src\\components\\StarCanvas.jsx": [
           {
@@ -132,6 +132,22 @@
             },
             "duration": 3,
             "language": "zip"
+          }
+        ],
+        "c:\\Users\\DELL\\AppData\\Roaming\\Code\\User\\settings.json": [
+          {
+            "timestamp": "2025-09-02T11:33:58.923Z",
+            "fileName": "c:\\Users\\DELL\\AppData\\Roaming\\Code\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 48,
+            "linesRemoved": 0,
+            "projectName": "multipages website",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
           }
         ]
       },
