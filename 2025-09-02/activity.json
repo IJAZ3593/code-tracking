@@ -163,6 +163,74 @@
         "c:\\Users\\DELL\\OneDrive\\Desktop\\multipages website\\MultiPageSocial.zip"
       ],
       "averageChangeSize": 2
+    },
+    "multipages pages": {
+      "totalLinesAdded": 51,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 3,
+      "files": {
+        "c:\\Users\\DELL\\AppData\\Roaming\\Code\\User\\settings.json": [
+          {
+            "timestamp": "2025-09-02T11:50:19.940Z",
+            "fileName": "c:\\Users\\DELL\\AppData\\Roaming\\Code\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 49,
+            "linesRemoved": 0,
+            "projectName": "multipages pages",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ],
+        "c:\\Users\\DELL\\OneDrive\\Desktop\\multipages pages\\project\\index.html": [
+          {
+            "timestamp": "2025-09-02T11:50:55.723Z",
+            "fileName": "c:\\Users\\DELL\\OneDrive\\Desktop\\multipages pages\\project\\index.html",
+            "fileType": ".html",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "multipages pages",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          }
+        ],
+        "c:\\Users\\DELL\\OneDrive\\Desktop\\multipages pages\\project\\package.json": [
+          {
+            "timestamp": "2025-09-02T11:52:16.152Z",
+            "fileName": "c:\\Users\\DELL\\OneDrive\\Desktop\\multipages pages\\project\\package.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "multipages pages",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 2,
+        "html": 1
+      },
+      "changeFrequency": {
+        "16": 3
+      },
+      "topFiles": [
+        "c:\\Users\\DELL\\AppData\\Roaming\\Code\\User\\settings.json",
+        "c:\\Users\\DELL\\OneDrive\\Desktop\\multipages pages\\project\\index.html",
+        "c:\\Users\\DELL\\OneDrive\\Desktop\\multipages pages\\project\\package.json"
+      ],
+      "averageChangeSize": 17
     }
   },
   "totalActiveTime": 0,
