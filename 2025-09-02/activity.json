@@ -389,9 +389,9 @@
       "averageChangeSize": 17
     },
     "hand mate": {
-      "totalLinesAdded": 2,
+      "totalLinesAdded": 5,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 0,
+      "totalActiveTime": 2,
       "files": {
         "c:\\Users\\DELL\\OneDrive\\Desktop\\hand mate\\index.html": [
           {
@@ -423,6 +423,54 @@
             },
             "duration": 0,
             "language": "css"
+          }
+        ],
+        "c:\\Users\\DELL\\OneDrive\\Desktop\\hand mate\\contect.html": [
+          {
+            "timestamp": "2025-09-02T15:23:57.197Z",
+            "fileName": "c:\\Users\\DELL\\OneDrive\\Desktop\\hand mate\\contect.html",
+            "fileType": ".html",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "hand mate",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "html"
+          }
+        ],
+        "c:\\Users\\DELL\\OneDrive\\Desktop\\hand mate\\blog.html": [
+          {
+            "timestamp": "2025-09-02T15:24:03.702Z",
+            "fileName": "c:\\Users\\DELL\\OneDrive\\Desktop\\hand mate\\blog.html",
+            "fileType": ".html",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "hand mate",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          }
+        ],
+        "c:\\Users\\DELL\\OneDrive\\Desktop\\hand mate\\about.html": [
+          {
+            "timestamp": "2025-09-02T15:24:11.626Z",
+            "fileName": "c:\\Users\\DELL\\OneDrive\\Desktop\\hand mate\\about.html",
+            "fileType": ".html",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "hand mate",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
           }
         ]
       },
