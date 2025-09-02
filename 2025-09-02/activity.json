@@ -96,6 +96,57 @@
         "c:\\Users\\DELL\\OneDrive\\Desktop\\pythen\\practice.py"
       ],
       "averageChangeSize": 3
+    },
+    "multipages website": {
+      "totalLinesAdded": 4,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 3,
+      "files": {
+        "c:\\Users\\DELL\\AppData\\Local\\Temp\\6adc5f9c-82af-4fee-a60f-daceed8789c8_MultiPageSocial.zip.MultiPageSocial.zip\\src\\components\\StarCanvas.jsx": [
+          {
+            "timestamp": "2025-09-02T11:30:31.995Z",
+            "fileName": "c:\\Users\\DELL\\AppData\\Local\\Temp\\6adc5f9c-82af-4fee-a60f-daceed8789c8_MultiPageSocial.zip.MultiPageSocial.zip\\src\\components\\StarCanvas.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "multipages website",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "jsx"
+          }
+        ],
+        "c:\\Users\\DELL\\OneDrive\\Desktop\\multipages website\\MultiPageSocial.zip": [
+          {
+            "timestamp": "2025-09-02T11:33:26.892Z",
+            "fileName": "c:\\Users\\DELL\\OneDrive\\Desktop\\multipages website\\MultiPageSocial.zip",
+            "fileType": ".zip",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "multipages website",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "zip"
+          }
+        ]
+      },
+      "languageStats": {
+        "jsx": 0,
+        "zip": 3
+      },
+      "changeFrequency": {
+        "16": 3
+      },
+      "topFiles": [
+        "c:\\Users\\DELL\\AppData\\Local\\Temp\\6adc5f9c-82af-4fee-a60f-daceed8789c8_MultiPageSocial.zip.MultiPageSocial.zip\\src\\components\\StarCanvas.jsx",
+        "c:\\Users\\DELL\\OneDrive\\Desktop\\multipages website\\MultiPageSocial.zip"
+      ],
+      "averageChangeSize": 2
     }
   },
   "totalActiveTime": 0,
