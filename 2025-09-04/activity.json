@@ -1,0 +1,140 @@
+{
+  "date": "2025-09-04",
+  "projects": {
+    "tailwind": {
+      "totalLinesAdded": 154,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 10,
+      "files": {
+        "c:\\Users\\DELL\\OneDrive\\Desktop\\tailwind\\src\\index.html": [
+          {
+            "timestamp": "2025-09-04T16:42:17.952Z",
+            "fileName": "c:\\Users\\DELL\\OneDrive\\Desktop\\tailwind\\src\\index.html",
+            "fileType": ".html",
+            "linesAdded": 45,
+            "linesRemoved": 0,
+            "projectName": "tailwind",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "html"
+          }
+        ],
+        "c:\\Users\\DELL\\OneDrive\\Desktop\\tailwind\\src\\login.html": [
+          {
+            "timestamp": "2025-09-04T16:44:21.123Z",
+            "fileName": "c:\\Users\\DELL\\OneDrive\\Desktop\\tailwind\\src\\login.html",
+            "fileType": ".html",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "tailwind",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-09-04T16:44:22.196Z",
+            "fileName": "c:\\Users\\DELL\\OneDrive\\Desktop\\tailwind\\src\\login.html",
+            "fileType": ".html",
+            "linesAdded": 27,
+            "linesRemoved": 0,
+            "projectName": "tailwind",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          }
+        ],
+        "c:\\Users\\DELL\\OneDrive\\Desktop\\tailwind\\src\\profile.html": [
+          {
+            "timestamp": "2025-09-04T16:45:31.926Z",
+            "fileName": "c:\\Users\\DELL\\OneDrive\\Desktop\\tailwind\\src\\profile.html",
+            "fileType": ".html",
+            "linesAdded": 39,
+            "linesRemoved": 0,
+            "projectName": "tailwind",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "html"
+          }
+        ],
+        "c:\\Users\\DELL\\OneDrive\\Desktop\\tailwind\\src\\groups.html": [
+          {
+            "timestamp": "2025-09-04T16:45:51.408Z",
+            "fileName": "c:\\Users\\DELL\\OneDrive\\Desktop\\tailwind\\src\\groups.html",
+            "fileType": ".html",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "tailwind",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-09-04T16:45:52.432Z",
+            "fileName": "c:\\Users\\DELL\\OneDrive\\Desktop\\tailwind\\src\\groups.html",
+            "fileType": ".html",
+            "linesAdded": 40,
+            "linesRemoved": 0,
+            "projectName": "tailwind",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-09-04T16:46:54.070Z",
+            "fileName": "c:\\Users\\DELL\\OneDrive\\Desktop\\tailwind\\src\\groups.html",
+            "fileType": ".html",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "tailwind",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "html"
+          }
+        ]
+      },
+      "languageStats": {
+        "html": 10
+      },
+      "changeFrequency": {
+        "21": 10
+      },
+      "topFiles": [
+        "c:\\Users\\DELL\\OneDrive\\Desktop\\tailwind\\src\\groups.html",
+        "c:\\Users\\DELL\\OneDrive\\Desktop\\tailwind\\src\\login.html",
+        "c:\\Users\\DELL\\OneDrive\\Desktop\\tailwind\\src\\index.html",
+        "c:\\Users\\DELL\\OneDrive\\Desktop\\tailwind\\src\\profile.html"
+      ],
+      "averageChangeSize": 22
+    }
+  },
+  "totalActiveTime": 10,
+  "totalProjects": 1,
+  "totalFiles": 4,
+  "mostActiveHours": [
+    21
+  ],
+  "mostUsedLanguages": [
+    "html"
+  ]
+}
