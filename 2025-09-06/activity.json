@@ -1,0 +1,47 @@
+{
+  "date": "2025-09-06",
+  "projects": {
+    "koooo": {
+      "totalLinesAdded": 104,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\Users\\DELL\\OneDrive\\Desktop\\koooo\\my-app\\app\\page.js": [
+          {
+            "timestamp": "2025-09-06T04:20:26.077Z",
+            "fileName": "c:\\Users\\DELL\\OneDrive\\Desktop\\koooo\\my-app\\app\\page.js",
+            "fileType": ".js",
+            "linesAdded": 104,
+            "linesRemoved": 0,
+            "projectName": "koooo",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          }
+        ]
+      },
+      "languageStats": {
+        "js": 0
+      },
+      "changeFrequency": {
+        "9": 0
+      },
+      "topFiles": [
+        "c:\\Users\\DELL\\OneDrive\\Desktop\\koooo\\my-app\\app\\page.js"
+      ],
+      "averageChangeSize": 104
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    9
+  ],
+  "mostUsedLanguages": [
+    "js"
+  ]
+}
