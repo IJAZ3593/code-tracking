@@ -47,6 +47,39 @@
         "c:\\Users\\DELL\\OneDrive\\Desktop\\GPT\\ai-assistant-single\\.env.example"
       ],
       "averageChangeSize": 1
+    },
+    "abdul": {
+      "totalLinesAdded": 4,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\Users\\DELL\\OneDrive\\Desktop\\abdul\\.next\\server\\app-paths-manifest.json": [
+          {
+            "timestamp": "2025-09-09T16:47:07.896Z",
+            "fileName": "c:\\Users\\DELL\\OneDrive\\Desktop\\abdul\\.next\\server\\app-paths-manifest.json",
+            "fileType": ".json",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "abdul",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 0
+      },
+      "changeFrequency": {
+        "21": 0
+      },
+      "topFiles": [
+        "c:\\Users\\DELL\\OneDrive\\Desktop\\abdul\\.next\\server\\app-paths-manifest.json"
+      ],
+      "averageChangeSize": 4
     }
   },
   "totalActiveTime": 1,
