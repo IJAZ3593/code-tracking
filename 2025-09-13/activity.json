@@ -2,9 +2,9 @@
   "date": "2025-09-13",
   "projects": {
     "New folder": {
-      "totalLinesAdded": 1450,
-      "totalLinesRemoved": 203,
-      "totalActiveTime": 273,
+      "totalLinesAdded": 1468,
+      "totalLinesRemoved": 389,
+      "totalActiveTime": 278,
       "files": {
         "c:\\Users\\DELL\\OneDrive\\Desktop\\New folder\\WEBPAGE\\index.html": [
           {
@@ -111,6 +111,48 @@
             "fileType": ".html",
             "linesAdded": 0,
             "linesRemoved": 4,
+            "projectName": "New folder",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-09-13T17:42:26.191Z",
+            "fileName": "c:\\Users\\DELL\\OneDrive\\Desktop\\New folder\\WEBPAGE\\index.html",
+            "fileType": ".html",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "New folder",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-09-13T17:42:34.477Z",
+            "fileName": "c:\\Users\\DELL\\OneDrive\\Desktop\\New folder\\WEBPAGE\\index.html",
+            "fileType": ".html",
+            "linesAdded": 16,
+            "linesRemoved": 0,
+            "projectName": "New folder",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-09-13T17:43:11.743Z",
+            "fileName": "c:\\Users\\DELL\\OneDrive\\Desktop\\New folder\\WEBPAGE\\index.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 15,
             "projectName": "New folder",
             "content": {
               "added": [],
@@ -3501,6 +3543,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-09-13T17:44:45.842Z",
+            "fileName": "c:\\Users\\DELL\\OneDrive\\Desktop\\New folder\\WEBPAGE\\script.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 171,
+            "projectName": "New folder",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "js"
           }
         ],
