@@ -4,16 +4,16 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 284                                          |
-| **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 284                |
-| **Active Time** (⌚)   | 13 minutes |
+| **Lines Added** (➕)   | 480                                          |
+| **Lines Removed** (➖) | 2                                        |
+| **Net Change** (↕)    | 478                |
+| **Active Time** (⌚)   | 22 minutes |
 
 
 ## Modified Files
 - **index.html** (+102, -0)
-- **blog.html** (+45, -0)
-- **shop.html** (+42, -0)
+- **blog.html** (+142, -2)
+- **shop.html** (+141, -0)
 - **portfolio.html** (+42, -0)
 - **contact.html** (+36, -0)
 - **script.js** (+17, -0)
@@ -25,7 +25,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".html" : 267
+".html" : 465
 ".js" : 17
 ```
 
@@ -35,8 +35,9 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "19h" : 6
-"20h" : 9
+"20h" : 14
+"21h" : 2
 ```
 
 
-> **Last Updated:** 9/13/2025, 8:57:56 PM
+> **Last Updated:** 9/13/2025, 9:02:56 PM
