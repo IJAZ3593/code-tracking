@@ -2,9 +2,9 @@
   "date": "2025-09-14",
   "projects": {
     "New folder": {
-      "totalLinesAdded": 1179,
+      "totalLinesAdded": 2025,
       "totalLinesRemoved": 31,
-      "totalActiveTime": 20,
+      "totalActiveTime": 27,
       "files": {
         "c:\\Users\\DELL\\OneDrive\\Desktop\\New folder\\WEBPAGE\\shop.html": [
           {
@@ -104,6 +104,34 @@
             },
             "duration": 1,
             "language": "html"
+          },
+          {
+            "timestamp": "2025-09-14T05:23:43.069Z",
+            "fileName": "c:\\Users\\DELL\\OneDrive\\Desktop\\New folder\\WEBPAGE\\shop.html",
+            "fileType": ".html",
+            "linesAdded": 210,
+            "linesRemoved": 0,
+            "projectName": "New folder",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-09-14T05:23:44.133Z",
+            "fileName": "c:\\Users\\DELL\\OneDrive\\Desktop\\New folder\\WEBPAGE\\shop.html",
+            "fileType": ".html",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "New folder",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
           }
         ],
         "c:\\Users\\DELL\\OneDrive\\Desktop\\New folder\\WEBPAGE\\portfolio.html": [
@@ -140,6 +168,34 @@
             "fileName": "c:\\Users\\DELL\\OneDrive\\Desktop\\New folder\\WEBPAGE\\portfolio.html",
             "fileType": ".html",
             "linesAdded": 22,
+            "linesRemoved": 0,
+            "projectName": "New folder",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-09-14T05:23:37.257Z",
+            "fileName": "c:\\Users\\DELL\\OneDrive\\Desktop\\New folder\\WEBPAGE\\portfolio.html",
+            "fileType": ".html",
+            "linesAdded": 234,
+            "linesRemoved": 0,
+            "projectName": "New folder",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-09-14T05:23:38.242Z",
+            "fileName": "c:\\Users\\DELL\\OneDrive\\Desktop\\New folder\\WEBPAGE\\portfolio.html",
+            "fileType": ".html",
+            "linesAdded": 3,
             "linesRemoved": 0,
             "projectName": "New folder",
             "content": {
@@ -236,6 +292,34 @@
             },
             "duration": 1,
             "language": "html"
+          },
+          {
+            "timestamp": "2025-09-14T05:23:30.642Z",
+            "fileName": "c:\\Users\\DELL\\OneDrive\\Desktop\\New folder\\WEBPAGE\\contact.html",
+            "fileType": ".html",
+            "linesAdded": 166,
+            "linesRemoved": 0,
+            "projectName": "New folder",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-09-14T05:23:31.660Z",
+            "fileName": "c:\\Users\\DELL\\OneDrive\\Desktop\\New folder\\WEBPAGE\\contact.html",
+            "fileType": ".html",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "New folder",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
           }
         ],
         "c:\\Users\\DELL\\OneDrive\\Desktop\\New folder\\WEBPAGE\\blog.html": [
@@ -272,6 +356,34 @@
             "fileName": "c:\\Users\\DELL\\OneDrive\\Desktop\\New folder\\WEBPAGE\\blog.html",
             "fileType": ".html",
             "linesAdded": 22,
+            "linesRemoved": 0,
+            "projectName": "New folder",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-09-14T05:23:52.279Z",
+            "fileName": "c:\\Users\\DELL\\OneDrive\\Desktop\\New folder\\WEBPAGE\\blog.html",
+            "fileType": ".html",
+            "linesAdded": 224,
+            "linesRemoved": 0,
+            "projectName": "New folder",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-09-14T05:23:53.310Z",
+            "fileName": "c:\\Users\\DELL\\OneDrive\\Desktop\\New folder\\WEBPAGE\\blog.html",
+            "fileType": ".html",
+            "linesAdded": 3,
             "linesRemoved": 0,
             "projectName": "New folder",
             "content": {
