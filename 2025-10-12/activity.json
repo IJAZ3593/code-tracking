@@ -1,0 +1,61 @@
+{
+  "date": "2025-10-12",
+  "projects": {
+    "chapter 11": {
+      "totalLinesAdded": 20,
+      "totalLinesRemoved": 19,
+      "totalActiveTime": 3,
+      "files": {
+        "d:\\chapter 11\\11_02_sum_product_if_positive.c": [
+          {
+            "timestamp": "2025-10-12T03:54:27.722Z",
+            "fileName": "d:\\chapter 11\\11_02_sum_product_if_positive.c",
+            "fileType": ".c",
+            "linesAdded": 20,
+            "linesRemoved": 0,
+            "projectName": "chapter 11",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "c"
+          },
+          {
+            "timestamp": "2025-10-12T03:57:22.378Z",
+            "fileName": "d:\\chapter 11\\11_02_sum_product_if_positive.c",
+            "fileType": ".c",
+            "linesAdded": 0,
+            "linesRemoved": 19,
+            "projectName": "chapter 11",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "c"
+          }
+        ]
+      },
+      "languageStats": {
+        "c": 3
+      },
+      "changeFrequency": {
+        "8": 3
+      },
+      "topFiles": [
+        "d:\\chapter 11\\11_02_sum_product_if_positive.c"
+      ],
+      "averageChangeSize": 19.5
+    }
+  },
+  "totalActiveTime": 3,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    8
+  ],
+  "mostUsedLanguages": [
+    "c"
+  ]
+}
