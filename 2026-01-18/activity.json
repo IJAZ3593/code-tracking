@@ -446,6 +446,249 @@
         "c:\\Users\\DELL\\OneDrive\\Desktop\\New folder\\index.html"
       ],
       "averageChangeSize": 22.7
+    },
+    "folder": {
+      "totalLinesAdded": 534,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 15,
+      "files": {
+        "c:\\Users\\DELL\\OneDrive\\Desktop\\folder\\index.html": [
+          {
+            "timestamp": "2026-01-18T09:18:02.660Z",
+            "fileName": "c:\\Users\\DELL\\OneDrive\\Desktop\\folder\\index.html",
+            "fileType": ".html",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "folder",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "html"
+          },
+          {
+            "timestamp": "2026-01-18T09:18:03.647Z",
+            "fileName": "c:\\Users\\DELL\\OneDrive\\Desktop\\folder\\index.html",
+            "fileType": ".html",
+            "linesAdded": 71,
+            "linesRemoved": 0,
+            "projectName": "folder",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2026-01-18T09:18:38.427Z",
+            "fileName": "c:\\Users\\DELL\\OneDrive\\Desktop\\folder\\index.html",
+            "fileType": ".html",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "folder",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2026-01-18T09:18:43.704Z",
+            "fileName": "c:\\Users\\DELL\\OneDrive\\Desktop\\folder\\index.html",
+            "fileType": ".html",
+            "linesAdded": 74,
+            "linesRemoved": 0,
+            "projectName": "folder",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2026-01-18T09:19:03.410Z",
+            "fileName": "c:\\Users\\DELL\\OneDrive\\Desktop\\folder\\index.html",
+            "fileType": ".html",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "folder",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2026-01-18T09:19:08.350Z",
+            "fileName": "c:\\Users\\DELL\\OneDrive\\Desktop\\folder\\index.html",
+            "fileType": ".html",
+            "linesAdded": 64,
+            "linesRemoved": 0,
+            "projectName": "folder",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2026-01-18T09:19:29.085Z",
+            "fileName": "c:\\Users\\DELL\\OneDrive\\Desktop\\folder\\index.html",
+            "fileType": ".html",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "folder",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2026-01-18T09:19:33.992Z",
+            "fileName": "c:\\Users\\DELL\\OneDrive\\Desktop\\folder\\index.html",
+            "fileType": ".html",
+            "linesAdded": 22,
+            "linesRemoved": 0,
+            "projectName": "folder",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2026-01-18T09:19:52.768Z",
+            "fileName": "c:\\Users\\DELL\\OneDrive\\Desktop\\folder\\index.html",
+            "fileType": ".html",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "folder",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2026-01-18T09:19:56.140Z",
+            "fileName": "c:\\Users\\DELL\\OneDrive\\Desktop\\folder\\index.html",
+            "fileType": ".html",
+            "linesAdded": 60,
+            "linesRemoved": 0,
+            "projectName": "folder",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2026-01-18T09:20:14.116Z",
+            "fileName": "c:\\Users\\DELL\\OneDrive\\Desktop\\folder\\index.html",
+            "fileType": ".html",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "folder",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2026-01-18T09:20:19.284Z",
+            "fileName": "c:\\Users\\DELL\\OneDrive\\Desktop\\folder\\index.html",
+            "fileType": ".html",
+            "linesAdded": 81,
+            "linesRemoved": 0,
+            "projectName": "folder",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2026-01-18T09:20:44.608Z",
+            "fileName": "c:\\Users\\DELL\\OneDrive\\Desktop\\folder\\index.html",
+            "fileType": ".html",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "folder",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2026-01-18T09:20:48.581Z",
+            "fileName": "c:\\Users\\DELL\\OneDrive\\Desktop\\folder\\index.html",
+            "fileType": ".html",
+            "linesAdded": 63,
+            "linesRemoved": 0,
+            "projectName": "folder",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2026-01-18T09:21:14.295Z",
+            "fileName": "c:\\Users\\DELL\\OneDrive\\Desktop\\folder\\index.html",
+            "fileType": ".html",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "folder",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2026-01-18T09:21:20.246Z",
+            "fileName": "c:\\Users\\DELL\\OneDrive\\Desktop\\folder\\index.html",
+            "fileType": ".html",
+            "linesAdded": 91,
+            "linesRemoved": 0,
+            "projectName": "folder",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          }
+        ]
+      },
+      "languageStats": {
+        "html": 15
+      },
+      "changeFrequency": {
+        "14": 15
+      },
+      "topFiles": [
+        "c:\\Users\\DELL\\OneDrive\\Desktop\\folder\\index.html"
+      ],
+      "averageChangeSize": 33.375
     }
   },
   "totalActiveTime": 7,
