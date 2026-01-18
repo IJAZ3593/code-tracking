@@ -1,0 +1,156 @@
+{
+  "date": "2026-01-18",
+  "projects": {
+    "E mail": {
+      "totalLinesAdded": 456,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 7,
+      "files": {
+        "c:\\Users\\DELL\\OneDrive\\Desktop\\E mail\\App.tsx": [
+          {
+            "timestamp": "2026-01-18T08:48:57.507Z",
+            "fileName": "c:\\Users\\DELL\\OneDrive\\Desktop\\E mail\\App.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "E mail",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-01-18T08:48:58.561Z",
+            "fileName": "c:\\Users\\DELL\\OneDrive\\Desktop\\E mail\\App.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 236,
+            "linesRemoved": 0,
+            "projectName": "E mail",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "c:\\Users\\DELL\\OneDrive\\Desktop\\E mail\\components\\layout.tsx": [
+          {
+            "timestamp": "2026-01-18T08:49:43.116Z",
+            "fileName": "c:\\Users\\DELL\\OneDrive\\Desktop\\E mail\\components\\layout.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "E mail",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-01-18T08:49:44.131Z",
+            "fileName": "c:\\Users\\DELL\\OneDrive\\Desktop\\E mail\\components\\layout.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 60,
+            "linesRemoved": 0,
+            "projectName": "E mail",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "c:\\Users\\DELL\\OneDrive\\Desktop\\E mail\\components\\ResultDisplay.tsx": [
+          {
+            "timestamp": "2026-01-18T08:50:08.956Z",
+            "fileName": "c:\\Users\\DELL\\OneDrive\\Desktop\\E mail\\components\\ResultDisplay.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "E mail",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-01-18T08:50:09.966Z",
+            "fileName": "c:\\Users\\DELL\\OneDrive\\Desktop\\E mail\\components\\ResultDisplay.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 96,
+            "linesRemoved": 0,
+            "projectName": "E mail",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "c:\\Users\\DELL\\OneDrive\\Desktop\\E mail\\Services\\geminiService.ts": [
+          {
+            "timestamp": "2026-01-18T08:50:33.910Z",
+            "fileName": "c:\\Users\\DELL\\OneDrive\\Desktop\\E mail\\Services\\geminiService.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "E mail",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-01-18T08:50:34.968Z",
+            "fileName": "c:\\Users\\DELL\\OneDrive\\Desktop\\E mail\\Services\\geminiService.ts",
+            "fileType": ".ts",
+            "linesAdded": 60,
+            "linesRemoved": 0,
+            "projectName": "E mail",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ]
+      },
+      "languageStats": {
+        "tsx": 5,
+        "ts": 2
+      },
+      "changeFrequency": {
+        "13": 7
+      },
+      "topFiles": [
+        "c:\\Users\\DELL\\OneDrive\\Desktop\\E mail\\App.tsx",
+        "c:\\Users\\DELL\\OneDrive\\Desktop\\E mail\\components\\layout.tsx",
+        "c:\\Users\\DELL\\OneDrive\\Desktop\\E mail\\components\\ResultDisplay.tsx",
+        "c:\\Users\\DELL\\OneDrive\\Desktop\\E mail\\Services\\geminiService.ts"
+      ],
+      "averageChangeSize": 57
+    }
+  },
+  "totalActiveTime": 7,
+  "totalProjects": 1,
+  "totalFiles": 4,
+  "mostActiveHours": [
+    13
+  ],
+  "mostUsedLanguages": [
+    "tsx",
+    "ts"
+  ]
+}
